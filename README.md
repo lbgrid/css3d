@@ -28,6 +28,7 @@ engine.update().render();
 
 ### TODO
 * ~~Collision detection~~
+* smooth keyboard & multi-key handling
 * Build scene from json
 * hovertext on in-world onjects
 * resident avatars
