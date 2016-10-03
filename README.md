@@ -38,6 +38,7 @@ engine.update().render();
 * HUDs and attachments, clothing, bodyparts, etc
 * Depth cueing
 * particle engine
+* enable on-demand prims manipulations (twisting, hollow, cut, etc)
 * post-processing effects
 * sky, sun, moon, stars, windlight settings
 * enable user preferences, store as localStorage Array()
