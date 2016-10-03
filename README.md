@@ -1,7 +1,7 @@
 CSS3D
 =====
 
-CSS 3D engine, an original project of <a href="http://css3d.bitworking.de/">BitWorking</a>, now being used as the base of a new browser-based virtual world by Operator 1 Computer Technologies Group, International and Littlebird Grid. The project, while not in any way a port of OpenSim or LindenLab's Secondlife, devires its features and concepts almost complete from the same. At the time of this original writing, the project has been dead (AFAIK) from the last two years. We plan to revitalize and monetize the code base and create something that enables others to make their dreams a reality. Enjoy!
+CSS 3D engine, an original project of <a href="http://css3d.bitworking.de/">BitWorking</a>, now being used as the base of a new browser-based virtual world by Operator 1 Computer Technologies Group, International and Littlebird Grid. The project, while not in any way a port of OpenSim or LindenLab's Secondlife, devires its features and concepts almost entirely from the same. At the time of this original writing, the project has been dead (AFAIK) from the last two years. We plan to revitalize and monetize the code base and create something that enables others to make their dreams a reality. Enjoy!
 
 ### Features
 * No need for browser prefixes
