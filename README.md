@@ -59,4 +59,6 @@ engine.update().render();
 * Speed/memory optimization
 
 ### More infos
-http://5world2.ml
+http://5world2.ml - online documentation
+http://           - samples / demos
+http://           - changelog
