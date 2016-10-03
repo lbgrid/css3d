@@ -37,6 +37,10 @@ engine.update().render();
 * resident avatars
 * HUDs and attachments, clothing, bodyparts, etc
 * Depth cueing
+* particle engine
+* post-processing effects
+* sky, sun, moon, stars, windlight settings
+* enable user preferences, store as localStorage Array()
 * correct blinking and fading out prims on camera rotation/position change
 * generate and assign UUIDs internally
 * fully functional physics engine
