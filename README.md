@@ -32,6 +32,9 @@ engine.update().render();
 * Animation system
 * ~~Use textures/uvw coordinates from obj file~~
 * Billboard element
+* Develop and Isolate User inventory JSON
+* develop and isolate region server JSON
+* develop and isolate USER and ASSET management utilities
 * Speed/memory optimization
 
 ### More infos
