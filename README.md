@@ -35,6 +35,7 @@ engine.update().render();
 * Build scene from json
 * hovertext on in-world onjects
 * resident avatars
+* world map & local minimap (connect to bordering regions)
 * HUDs and attachments, clothing, bodyparts, etc
 * Depth cueing
 * particle engine
