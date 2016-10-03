@@ -29,6 +29,9 @@ engine.update().render();
 * ~~Collision detection~~
 * Build scene from json
 * Depth cueing
+* fully functional physics engine
+* connect indivual viewers to remote nodeJS server instance
+* integration of HTML5's PostMessage() for peer-to-peer communications (teleports,IMs,etc)
 * Animation system
 * develop and integrate a user interface
 * develop and integrate a user interface
