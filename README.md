@@ -6,9 +6,10 @@ CSS 3D engine, an original project of <a href="http://css3d.bitworking.de/">BitW
 ### Features
 * No need for browser prefixes
 * Shading
+* collision detection
 * Because a matrix is calculated for every element it works in IE10, too
 * Full camera movements
-* Import obj files
+* Import obj files & wrap with images from obj
 * matrix4, quaternion, vector3, vector4
 * Different interpolations
 * Render loop with requestAnimationFrame and callback
