@@ -28,6 +28,9 @@ engine.update().render();
 ### TODO
 * ~~Collision detection~~
 * Build scene from json
+* hovertext on in-world onjects
+* resident avatars
+* HUDs and attachments, clothing, bodyparts, etc
 * Depth cueing
 * generate and assign UUIDs internally
 * fully functional physics engine
