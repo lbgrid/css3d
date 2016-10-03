@@ -29,6 +29,9 @@ engine.update().render();
 ### TODO
 * ~~Collision detection~~
 * smooth keyboard & multi-key handling
+* standardized dynamic context menus
+* raycasting
+* dynamically-created and stored event handlers, timers, listeners, etc
 * Build scene from json
 * hovertext on in-world onjects
 * resident avatars
