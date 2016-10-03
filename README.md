@@ -30,6 +30,9 @@ engine.update().render();
 * Build scene from json
 * Depth cueing
 * Animation system
+* develop and integrate a user interface
+* develop and integrate a user interface
+* generate some built-in geometries
 * ~~Use textures/uvw coordinates from obj file~~
 * Billboard element
 * Develop and Isolate User inventory JSON
