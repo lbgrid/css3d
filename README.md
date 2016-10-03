@@ -37,6 +37,7 @@ engine.update().render();
 * resident avatars
 * HUDs and attachments, clothing, bodyparts, etc
 * Depth cueing
+* correct blinking and fading out prims on camera rotation/position change
 * generate and assign UUIDs internally
 * fully functional physics engine
 * connect indivual viewers to remote nodeJS server instance
