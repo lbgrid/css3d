@@ -37,7 +37,7 @@ engine.update().render();
 * resident avatars
 * world map & local minimap (connect to bordering regions)
 * HUDs and attachments, clothing, bodyparts, etc
-* --Depth cueing--
+* ~~Depth cueing~~
 * particle engine
 * enable on-demand prims manipulations (twisting, hollow, cut, etc)
 * post-processing effects
